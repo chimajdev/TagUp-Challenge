@@ -1,4 +1,4 @@
-# TagUp-Challenge
+# TagUp-Challenge on Linux
 
 You can create an s3 bucket from your EC2 instance, and before you do that
 
